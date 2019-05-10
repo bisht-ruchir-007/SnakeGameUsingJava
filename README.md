@@ -12,6 +12,6 @@ Java JFrame. The javax.swing.JFrame class is a type of container which inherits 
 
 # Score Window : 
 
-![image1](images/snake1.PNG)
+![image1](images/snake2.PNG)
         
         
